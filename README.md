@@ -4,6 +4,18 @@
 
 I craft robust web applications with modern technologies, focusing on scalable and efficient solutions.
 
+## 🔥 Contribution Streak
+
+<div align="center">
+    <img alt="Muhammad Awais' Streak Stats" src="https://hs-github-streak-stats.vercel.app?user=mawaisdev&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
+</div>
+
+## 🏆 Recent Achievements
+
+- 🌟 Contributed to open-source projects
+- 💼 Built scalable applications using microservices
+- 📚 Actively learning Cloud Architecture
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -48,18 +60,6 @@ I craft robust web applications with modern technologies, focusing on scalable a
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawaisdev&layout=compact&theme=dracula" />
 </p>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-    <img alt="Muhammad Awais' Streak Stats" src="https://hs-github-streak-stats.vercel.app?user=mawaisdev&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
-</div>
-
-## 🏆 Recent Achievements
-
-- 🌟 Contributed to open-source projects
-- 💼 Built scalable applications using microservices
-- 📚 Actively learning Cloud Architecture
 
 ## 🌐 Connect With Me
 
