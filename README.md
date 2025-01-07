@@ -16,38 +16,41 @@ I craft robust web applications with modern technologies, focusing on scalable a
 - 💼 Built scalable applications using microservices
 - 📚 Actively learning Cloud Architecture
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Frontend
+<div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🎨 Frontend & Design
 
-### Backend
+<div>
+ <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,ts" />
+</div>
 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+### ⚙️ Backend & APIs
 
-### Database & Storage
+<div>
+ <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
+</div>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### 🗄️ Database & Storage
 
-### Cloud & Infrastructure
+<div>
+ <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase" />
+</div>
 
-![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/-AWS_CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### ☁️ Cloud & DevOps
 
-### AI/ML
+<div>
+ <img src="https://skillicons.dev/icons?i=aws,docker,git" />
+</div>
 
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logoColor=white)
+### 🔧 Tools & Environment
+
+<div>
+ <img src="https://skillicons.dev/icons?i=vscode,bash,linux" />
+</div>
+
+</div>
 
 ## 📊 GitHub Analytics
 
