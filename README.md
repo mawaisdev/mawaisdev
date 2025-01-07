@@ -37,9 +37,29 @@ I craft robust web applications with modern technologies, focusing on scalable a
 
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mawaisdev&show_icons=true&theme=dracula)
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mawaisdev&show_icons=true&theme=dracula" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawaisdev&layout=compact&theme=dracula" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mawaisdev&theme=dracula" />
+</p>
+
+## 🏆 Recent Achievements
+
+- 🌟 Contributed to open-source projects
+- 💼 Built scalable applications using microservices
+- 📚 Actively learning Cloud Architecture
 
 ## 🌐 Connect With Me
 
