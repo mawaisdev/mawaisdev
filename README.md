@@ -52,7 +52,7 @@ I craft robust web applications with modern technologies, focusing on scalable a
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mawaisdev&theme=dracula" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=mawaisdev&theme=dracula" />
 </p>
 
 ## 🏆 Recent Achievements
