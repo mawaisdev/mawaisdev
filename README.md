@@ -52,7 +52,7 @@ I craft robust web applications with modern technologies, focusing on scalable a
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mawaisdev&theme=dracula" width="100%" alt="GitHub Streak"/>
+    <img alt="Muhammad Awais' Streak Stats" src="https://hs-github-streak-stats.vercel.app?user=mawaisdev&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width='530px' />
 </div>
 
 ## 🏆 Recent Achievements
