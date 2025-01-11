@@ -12,7 +12,6 @@ I craft robust web applications with modern technologies, focusing on scalable a
 
 ## 🏆 Recent Achievements
 
-- 🌟 Contributed to open-source projects
 - 💼 Built scalable applications using microservices
 - 📚 Actively learning Cloud Architecture
 
