@@ -14,6 +14,7 @@ I craft robust web applications with modern technologies, focusing on scalable a
 
 - 💼 Built scalable applications using microservices
 - 📚 Actively learning Cloud Architecture
+- Building Chatbots with Langchain (Python) 
 
 ## 🛠️ Technology Stack
 
